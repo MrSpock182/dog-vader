@@ -36,6 +36,8 @@ h2 {
   font-family: 'Dancing Script', cursive;
 }
 
+.box-rotina {}
+
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
